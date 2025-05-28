@@ -31,7 +31,7 @@ linkedinUrl = "bsidesams"
 
 [params.themes.event.images]
 logo = "logos/medialesson-rgb.svg"
-titleBackground = "images/pexels-scottwebb-1048039.webp"
+titleBackground = "images/header.jpg"
 # location = "picture of the venue"
 
 ## Sponsors here
@@ -57,10 +57,10 @@ titleBackground = "images/pexels-scottwebb-1048039.webp"
 # name = "partner2"
 
 [params.themes.event.colors]
-primaryLighter = "#d7fb4d"
-primary = "#c6eb4d"
-primaryDarker = "#015a57"
-primaryDarkest = "#111928"
+primaryLighter = "#ff6937"
+primary = "#e64501" # oklch(0.618 0.2063 37.03)
+primaryDarker = "#c11d00"
+primaryDarkest = "#920b00"
 secondary = "#f7f8fa"
 secondaryDarker = "#637381"
 track = "#015a57"

@@ -1,0 +1,67 @@
+baseURL = 'https://bsidesams.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'event'
+
+[params.themes.event]
+title = "BSides Amsterdam"
+sessionizeId = "1d4jw7co"
+startDate = "2026-11-01"
+endDate = "2026-11-02"
+location = "Amsterdam, the Netherlands"
+address = [ "Building TBD", "Street TBD", "Amsterdam", "the Netherlands" ]
+favicon = "favicon.ico"
+trackCategoryTitle = "Track"
+
+[params.themes.event.callToAction]
+enableBanner = true
+
+[params.themes.event.map]
+# Placeholders which point to a venue on openstreetmap
+embeddableMapUrl = "https://www.openstreetmap.org/export/embed.html?bbox=4.90865707397461%2C52.36330325158056%2C4.922196865081788%2C52.36857696706619&amp;layer=mapnik"
+viewLargerMapUrl = "https://www.openstreetmap.org/?#map=17/52.365940/4.915427"
+
+# Fill in event ID when known
+# [params.themes.event.callToAction.eventbrite]
+# eventId = ""
+
+[params.themes.event.socialLinks]
+xUrl = "x.com/bsidesams"
+linkedinUrl = "bsidesams"
+
+[params.themes.event.images]
+logo = "logos/medialesson-rgb.svg"
+titleBackground = "images/pexels-scottwebb-1048039.webp"
+# location = "picture of the venue"
+
+## Sponsors here
+# [[params.themes.event.sponsors]]
+# logo = "logo1"
+# url = "url1"
+# name = "Sponsor1"
+
+# [[params.themes.event.sponsors]]
+# logo = "logo2"
+# url = "url2"
+# name = "Sponsor2"
+
+## Partners here
+# [[params.themes.event.partners]]
+# logo = "logo1"
+# url = "url1"
+# name = "Partner1"
+
+# [[params.themes.event.partners]]
+# logo = "logo2"
+# url = "url2"
+# name = "partner2"
+
+[params.themes.event.colors]
+primaryLighter = "#d7fb4d"
+primary = "#c6eb4d"
+primaryDarker = "#015a57"
+primaryDarkest = "#111928"
+secondary = "#f7f8fa"
+secondaryDarker = "#637381"
+track = "#015a57"
+shadow = "#a6afc366"

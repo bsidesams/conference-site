@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+
+# Build and Release Folders
+bin/
+bin-debug/
+bin-release/
+
+# Hugo
+public/

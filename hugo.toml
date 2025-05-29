@@ -102,7 +102,7 @@ favicon = "favicon.ico"
 trackCategoryTitle = "Track"
 
 [params.themes.event.callToAction]
-enableBanner = true
+enableBanner = false
 
 [params.themes.event.map]
 # Placeholders which point to a venue on openstreetmap

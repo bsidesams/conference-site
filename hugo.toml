@@ -92,10 +92,10 @@ titleBackground = "images/vondel.jpg"
 # location = "picture of the venue"
 
 ## Sponsors here
-# [[params.themes.event.sponsors]]
-# logo = "logo1"
-# url = "url1"
-# name = "Sponsor1"
+[[params.themes.event.sponsors]]
+logo = "Sponsor1"
+url = "https://example.org"
+name = "Sponsor1"
 
 # [[params.themes.event.sponsors]]
 # logo = "logo2"
@@ -103,10 +103,11 @@ titleBackground = "images/vondel.jpg"
 # name = "Sponsor2"
 
 ## Partners here
-# [[params.themes.event.partners]]
-# logo = "logo1"
-# url = "url1"
-# name = "Partner1"
+[[params.themes.event.partners]]
+logo = "images/partners/bsides-groningen.png"
+# Seems like there is a bug in the partner url, refering to the /sponsors page instead of partner URL
+url = "https://bsidesgrunn.org"
+name = "BSides Groningen"
 
 # [[params.themes.event.partners]]
 # logo = "logo2"

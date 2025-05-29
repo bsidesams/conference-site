@@ -1,6 +1,6 @@
 baseURL = 'https://bsidesams.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'BSides Amsterdam'
 theme = 'event'
 
 defaultContentLanguage = "en"
@@ -9,22 +9,45 @@ defaultContentLanguage = "en"
 languageName = "English"
 
 [languages.en.params.themes.event]
-slogan = "Slogan here"
+slogan = "Bringing the BSides community back to Amsterdam!"
 description = """
-Security BSides is a community-driven framework for building events, by and for, information security community members. These events are already happening in major cities all over the world! We are responsible for organizing an independent BSides-Approved event in Amsterdam, for the Netherlands.
+Security BSides is a community-driven framework for building events, by and for, information security community members. These events are already happening in major cities all over the world! We are responsible for organizing an independent BSides-Approved event in Amsterdam.
 """
 directions = """
 ## By Car:
-... car??
+PARKING:
+There is ample parking at B.Amsterdam with 16 charging spots. The cost for parking is €2 per hour with a maximum of €12 per day. 
 
-## By Bike:
+FROM DIRECTION UTRECHT:
+Take A2 and E19 to Anderlechtlaan in Amsterdam Nieuw-West, Amsterdam. Take exit 1-Amsterdam-Sloten from A4/E19
+Follow Anderlechtlaan, Oude Haagseweg and Johan Huizingalaan to Johan Huizingalaan.
 
+FROM DIRECTION SCHIPHOL/HAARLEM (A4/A9):
+Take A5/A9 and A4/E19 to Anderlechtlaan in Amsterdam Nieuw-West, Amsterdam. Take exit 1-Amsterdam-Sloten from A4/E19.
+Follow Anderlechtlaan, Oude Haagseweg and Johan Huizingalaan to Johan Huizingalaan.
 
-## By Tram:
-
+## By Public transport:
+Take metro 50 or 51 from Amsterdam Zuid and exit at Henk Sneevlietweg. Then it is a 10-15 minute walk to building B.1.
 """
 aboutUs = """
-More information about the event will be added soon. Stay tuned! 
+BSides is a community-driven framework for building events for and by information security community members. The goal is to expand the spectrum of conversation beyond the traditional confines of space and time. It creates opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense event with discussions, demos, and interaction from participants. It is where conversations for the next-big-thing are happening.
+
+BSides Amsterdam was originally hosted for the first time in 2018. However, after multiple years without BSides Amsterdam, 2025 is the time to re-ignite BSides Amsterdam! The success of our partner-event BSides Groningen, inspired a small group of people to make BSides Amsterdam happen again!
+
+The organization of BSides Amsterdam is a non-profit foundation (Stichting in Dutch), with goal to host events for the InfoSec community to allow knowledge sharing and eduction within the industry.
+
+The foundation aims to:
+* Promote the interests of Information Security and Information Technology industry members.
+* Disseminate knowledge about cloud and cybersecurity.
+* Stimulate the application of Information Security in the broaderst sense in the professional environment of, among others, companies, organizations, government and education.
+* Improve contacts between students, professionals and organizations that deal with Information Security and Information Technology, both nationally and internationally.
+* And furthermore everything that is related to this in the broadest sense, belongs to it and/or can be conducive to it.
+
+The foundation tries to achieve its goal by, among others:
+* Regularly organizing independent conferences for interested parties as well as organizations that deal with and/or use Information Security or Information Technology, where suppliers and affiliated groups can also present themselves;
+* Stimulate, initiate and organize community meetings;
+* Maintain contacts with other national and international organizations with similar objectives; and
+* Building and maintaining contacts with users and suppliers with knowledge and/or expertise that are deemed to be of importance to the Foundation and the goals it pursues and aims to achieve.
 """
 
 [[languages.en.menus.main]]
@@ -43,8 +66,8 @@ pageRef = "/sponsors"
 weight = 30
 
 [[languages.en.menus.main]]
-identifier = "code_of_conduct"
-pageRef = "/code-of-conduct"
+identifier = "about"
+pageRef = "/about"
 weight = 40
 
 
@@ -55,18 +78,26 @@ weight = 10
 
 [languages.en.menus.secondary.params]
 description = """
-Provide menu item description here.
+More information about the BSides Amsterdam event and the organization.
 """
 
+[[languages.en.menus.footer]]
+identifier = "code_of_conduct"
+pageRef = "/code-of-conduct"
+weight = 10
 
+[[languages.en.menus.footer]]
+identifier = "about"
+pageRef = "/about"
+weight = 20
 
 [params.themes.event]
 title = "BSides Amsterdam"
 sessionizeId = "1d4jw7co"
-startDate = "2026-11-01"
-endDate = "2026-11-02"
+startDate = "2025-11-07"
+endDate = "2025-11-07"
 location = "Amsterdam, the Netherlands"
-address = [ "Building TBD", "Street TBD", "Amsterdam", "the Netherlands" ]
+address = [ "B. Amsterdam (Building B.1)", "Johan Huizingalaan 763a", "Amsterdam", "The Netherlands" ]
 favicon = "favicon.ico"
 trackCategoryTitle = "Track"
 
@@ -75,32 +106,32 @@ enableBanner = true
 
 [params.themes.event.map]
 # Placeholders which point to a venue on openstreetmap
-embeddableMapUrl = "https://www.openstreetmap.org/export/embed.html?bbox=4.90865707397461%2C52.36330325158056%2C4.922196865081788%2C52.36857696706619&amp;layer=mapnik"
-viewLargerMapUrl = "https://www.openstreetmap.org/?#map=17/52.365940/4.915427"
+embeddableMapUrl = "https://www.openstreetmap.org/export/embed.html?bbox=4.827319085597993%2C52.342187647059596%2C4.830323159694672%2C52.344150742444484&amp;layer=mapnik"
+viewLargerMapUrl = "https://www.openstreetmap.org/?#map=19/52.343169/4.828821"
 
 # Fill in event ID when known
 # [params.themes.event.callToAction.eventbrite]
 # eventId = ""
 
 [params.themes.event.socialLinks]
-xUrl = "x.com/bsidesams"
-linkedinUrl = "bsidesams"
+xUrl = "https://x.com/bsidesams"
+linkedinUrl = "https://linkedin.com/bsidesams"
 
 [params.themes.event.images]
-logo = "images/header.jpg"
+logo = "images/bams_logo.jpg"
 titleBackground = "images/vondel.jpg"
 # location = "picture of the venue"
 
 ## Sponsors here
 [[params.themes.event.sponsors]]
-logo = "Sponsor1"
-url = "https://example.org"
-name = "Sponsor1"
+logo = "images/sponsors/warpnet-dark.png"
+url = "https://warpnet.nl/"
+name = "WarpNet"
 
-# [[params.themes.event.sponsors]]
-# logo = "logo2"
-# url = "url2"
-# name = "Sponsor2"
+ [[params.themes.event.sponsors]]
+ logo = "images/sponsors/specterops-dark.png"
+ url = "https://specterops.io"
+ name = "SpecterOps"
 
 ## Partners here
 [[params.themes.event.partners]]

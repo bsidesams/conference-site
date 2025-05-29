@@ -5,6 +5,28 @@ theme = 'event'
 
 defaultContentLanguage = "en"
 
+[languages.en]
+languageName = "English"
+
+[languages.en.params.themes.event]
+slogan = "Slogan here"
+description = """
+Security BSides is a community-driven framework for building events, by and for, information security community members. These events are already happening in major cities all over the world! We are responsible for organizing an independent BSides-Approved event in Amsterdam, for the Netherlands.
+"""
+directions = """
+## By Car:
+... car??
+
+## By Bike:
+
+
+## By Tram:
+
+"""
+aboutUs = """
+More information about the event will be added soon. Stay tuned! 
+"""
+
 [[languages.en.menus.main]]
 identifier = "sessions"
 pageRef = "/sessions"
@@ -94,7 +116,7 @@ titleBackground = "images/vondel.jpg"
 [params.themes.event.colors]
 primaryLighter = "#ff6937"
 primary = "#e64501" # oklch(0.618 0.2063 37.03)
-primaryDarker = "#e64501"
+primaryDarker = "#c11d00"
 primaryDarkest = "#e64501"
 # primaryDarker = "#c11d00"
 # primaryDarkest = "#c11d00"

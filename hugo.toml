@@ -156,3 +156,7 @@ secondary = "#f7f8fa"
 secondaryDarker = "#637381"
 track = "#015a57"
 shadow = "#a6afc366"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

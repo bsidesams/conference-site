@@ -3,6 +3,41 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'event'
 
+defaultContentLanguage = "en"
+
+[[languages.en.menus.main]]
+identifier = "sessions"
+pageRef = "/sessions"
+weight = 10
+
+[[languages.en.menus.main]]
+identifier = "location"
+pageRef = "/location"
+weight = 20
+
+[[languages.en.menus.main]]
+identifier = "sponsors"
+pageRef = "/sponsors"
+weight = 30
+
+[[languages.en.menus.main]]
+identifier = "code_of_conduct"
+pageRef = "/code-of-conduct"
+weight = 40
+
+
+[[languages.en.menus.secondary]]
+identifier = "about"
+pageRef = "/about"
+weight = 10
+
+[languages.en.menus.secondary.params]
+description = """
+Provide menu item description here.
+"""
+
+
+
 [params.themes.event]
 title = "BSides Amsterdam"
 sessionizeId = "1d4jw7co"
@@ -30,8 +65,8 @@ xUrl = "x.com/bsidesams"
 linkedinUrl = "bsidesams"
 
 [params.themes.event.images]
-logo = "logos/medialesson-rgb.svg"
-titleBackground = "images/header.jpg"
+logo = "images/header.jpg"
+titleBackground = "images/vondel.jpg"
 # location = "picture of the venue"
 
 ## Sponsors here
@@ -59,8 +94,10 @@ titleBackground = "images/header.jpg"
 [params.themes.event.colors]
 primaryLighter = "#ff6937"
 primary = "#e64501" # oklch(0.618 0.2063 37.03)
-primaryDarker = "#c11d00"
-primaryDarkest = "#920b00"
+primaryDarker = "#e64501"
+primaryDarkest = "#e64501"
+# primaryDarker = "#c11d00"
+# primaryDarkest = "#c11d00"
 secondary = "#f7f8fa"
 secondaryDarker = "#637381"
 track = "#015a57"

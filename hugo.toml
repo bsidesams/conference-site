@@ -141,7 +141,9 @@ favicon = "favicon.ico"
 trackCategoryTitle = "Track"
 organizers = [
   "598f92b5-24e8-45a7-9e59-35883259aaa2",
-  "bfdf8ccd-2e44-4def-a337-597e2bffbd18"
+  "bfdf8ccd-2e44-4def-a337-597e2bffbd18",
+  "08bb8f29-9c0e-4c96-9a6f-5ce6343e22d8",
+  "180bd1d9-532a-4957-9b6e-d373f22d650f"
 ]
 #featuredSessions = [ "944942", "943968", "945011" ]
 

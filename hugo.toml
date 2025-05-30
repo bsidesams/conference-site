@@ -12,7 +12,8 @@ languageName = "English"
 slogan = "Bringing the BSides community back to Amsterdam!"
 description = """
 Security BSides is a community-driven framework for building events, by and for, information security community members. These events are already happening in major cities all over the world! We are responsible for organizing an independent BSides-Approved event in Amsterdam.
-"""
+Our goal is to bring together at least 200 people from the InfoSec community. Interested in helping us achieve this goal? Consider [becoming a sponsor](/sponsorship) of BSides!"""
+
 directions = """
 ## By Car:
 PARKING:
@@ -30,10 +31,12 @@ Follow Anderlechtlaan, Oude Haagseweg and Johan Huizingalaan to Johan Huizingala
 Take metro 50 or 51 from Amsterdam Zuid and exit at Henk Sneevlietweg. Then it is a 10-15 minute walk to building B.1.
 """
 aboutUs = """
+### BSides history
 BSides is a community-driven framework for building events for and by information security community members. The goal is to expand the spectrum of conversation beyond the traditional confines of space and time. It creates opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense event with discussions, demos, and interaction from participants. It is where conversations for the next-big-thing are happening.
 
 BSides Amsterdam was originally hosted for the first time in 2018. However, after multiple years without BSides Amsterdam, 2025 is the time to re-ignite BSides Amsterdam! The success of our partner-event BSides Groningen, inspired a small group of people to make BSides Amsterdam happen again!
 
+### Non-profit foundation
 The organization of BSides Amsterdam is a non-profit foundation (Stichting in Dutch), with goal to host events for the InfoSec community to allow knowledge sharing and eduction within the industry.
 
 The foundation aims to:
@@ -50,35 +53,71 @@ The foundation tries to achieve its goal by, among others:
 * Building and maintaining contacts with users and suppliers with knowledge and/or expertise that are deemed to be of importance to the Foundation and the goals it pursues and aims to achieve.
 """
 
-[[languages.en.menus.main]]
-identifier = "sessions"
-pageRef = "/sessions"
-weight = 10
+#[[languages.en.menus.main]]
+#identifier = "sessions"
+#pageRef = "/sessions"
+#weight = 10
 
-[[languages.en.menus.main]]
-identifier = "location"
-pageRef = "/location"
-weight = 20
+#[[languages.en.menus.main]]
+#identifier = "speaker"
+#pageRef = "/speakers"
+#weight = 20
+
+#[[languages.en.menus.main]]
+#identifier = "location"
+#pageRef = "/location"
+#weight = 40
 
 [[languages.en.menus.main]]
 identifier = "sponsors"
 pageRef = "/sponsors"
-weight = 30
+weight = 50
 
 [[languages.en.menus.main]]
 identifier = "about"
 pageRef = "/about"
-weight = 40
+weight = 60
 
 
 [[languages.en.menus.secondary]]
 identifier = "about"
 pageRef = "/about"
 weight = 10
-
-[languages.en.menus.secondary.params]
+ [languages.en.menus.secondary.params]
 description = """
-More information about the BSides Amsterdam event and the organization.
+Learn more about our mission, values, and the people behind our organization.
+"""
+
+#[[languages.en.menus.secondary]]
+#identifier = "speakers"
+#pageRef = "/speakers"
+#weight = 30
+#
+  #[languages.en.menus.secondary.params]
+  #description = """
+#Meet our speakers who will will be speaking at BSides.
+#Learn more about their backgrounds and what they will discuss.
+#"""
+#
+#[[languages.en.menus.secondary]]
+#identifier = "location"
+#pageRef = "/location"
+#weight = 40
+#
+  #[languages.en.menus.secondary.params]
+  #description = """
+#Find out where the event will take place.
+#This section provides details on the venue and directions.
+#"""
+
+[[languages.en.menus.secondary]]
+identifier = "code_of_conduct"
+pageRef = "/code-of-conduct"
+weight = 60
+
+  [languages.en.menus.secondary.params]
+  description = """
+This outlines the expectations for participant behavior and event policies.
 """
 
 [[languages.en.menus.footer]]
@@ -100,18 +139,23 @@ location = "Amsterdam, the Netherlands"
 address = [ "B. Amsterdam (Building B.1)", "Johan Huizingalaan 763a", "Amsterdam", "The Netherlands" ]
 favicon = "favicon.ico"
 trackCategoryTitle = "Track"
+organizers = [
+  "598f92b5-24e8-45a7-9e59-35883259aaa2",
+  "bfdf8ccd-2e44-4def-a337-597e2bffbd18"
+]
+#featuredSessions = [ "944942", "943968", "945011" ]
 
 [params.themes.event.callToAction]
 enableBanner = false
+
+# Fill in event ID when known
+#[params.themes.event.callToAction.eventbrite]
+#eventId = "1389051192509"
 
 [params.themes.event.map]
 # Placeholders which point to a venue on openstreetmap
 embeddableMapUrl = "https://www.openstreetmap.org/export/embed.html?bbox=4.827319085597993%2C52.342187647059596%2C4.830323159694672%2C52.344150742444484&amp;layer=mapnik"
 viewLargerMapUrl = "https://www.openstreetmap.org/?#map=19/52.343169/4.828821"
-
-# Fill in event ID when known
-# [params.themes.event.callToAction.eventbrite]
-# eventId = ""
 
 [params.themes.event.socialLinks]
 xUrl = "https://x.com/bsidesams"

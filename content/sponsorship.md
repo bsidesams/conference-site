@@ -39,12 +39,17 @@ We offer two types of packages, regular packages on various levels. And special 
 Special package pricing is a 1:1 transfer of the quoted price by the venue with the ability to spread your brand's recognition. With these packages we try to make BSides more comfortable for attendees, they will forever be grateful to sponsors who purchase these packages.
 
 **Lunch sponsor - TBD**
-- Mention as lunch sponsor.
+- Mentions (verbal and digital) as lunch sponsor.
 - Placement of marketing materials at lunch location.
 
 **Network drinks sponsor - TBD**
-- Mention as network drinks sponsor.
+- Mentions (verbal and digital) as network drinks sponsor.
 - Placement of marketing materials at drinks location.
+
+**T-Shirt sponsor - TBD**
+- Verbal mention as T-shirt sponsor.
+- Your logo added to the t-shirt (similar to 'Silver package'-sponsor) together with other sponsors.
+- Note: Design and ordering of T-Shirts is done by BSides, sponsor has no impact on the final design.
 
 #### Regular packages
 **Platinum - €7.500**

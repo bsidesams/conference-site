@@ -48,51 +48,49 @@ Special package pricing is a 1:1 transfer of the quoted price by the venue with 
 
 #### Regular packages
 **Platinum - €7.500**
-- Table space at the event, for recruiting purposes
-- Mentioned in the Opening Ceremonies
-- Prominent large-sized logo placement on the website, banners, and
-    promotional materials
-- Inclusion on all social media an electronic communications
-- Logo on t-shirts
-- Verbal recognition
-- Sponsor provided banner placement at venue
-- 5 Badges
+- Table space at the event, for recruiting purposes.
+- Mentioned in the Opening Ceremonies.
+- Prominent large-sized logo placement on the website, banners, and promotional materials.
+- Inclusion on all social media an electronic communications.
+- Logo on t-shirts.
+- Verbal recognition.
+- Sponsor provided banner placement at venue.
+- 5 Badges.
 
 **Gold - €5.000**
-- Table space at the event, for recruiting purposes
-- Mentioned in the Opening Ceremonies
+- Table space at the event, for recruiting purposes.
+- Mentioned in the Opening Ceremonies.
 - Medium-sized logo placement on the website, banners, and promotional
-    materials
-- Inclusion on all social media an electronic communications
-- Logo on t-shirts
-- Verbal recognition
-- Sponsor provided banner placement at venue
-- 2 Badges
+    materials.
+- Inclusion on all social media an electronic communications.
+- Logo on t-shirts.
+- Verbal recognition.
+- Sponsor provided banner placement at venue.
+- 2 Badges.
 
 **Silver - € 2.500**
-- Table space at the event, for recruiting purposes
-- Mentioned in the Opening Ceremonies
+- Table space at the event, for recruiting purposes.
+- Mentioned in the Opening Ceremonies.
 - Regular-sized logo placement on the website, banners, and promotional
-    materials
-- Inclusion on all social media an electronic communications
-- Logo on t-shirts
-- Verbal recognition
-- Sponsor provided banner placement at venue
-- 1 Badge
+    materials.
+- Inclusion on all social media an electronic communications.
+- Logo on t-shirts.
+- Verbal recognition.
+- Sponsor provided banner placement at venue.
+- 1 Badge.
 
 **Bronze - € 1.000**
-- Small-sized logo placement on the website, banners, and promotional
-    materials
-- Inclusion on all social media an electronic communications
-- Logo on t-shirts
-- Verbal recognition
+- Small-sized logo placement on the website, banners, and promotional materials.
+- Inclusion on all social media an electronic communications.
 
 **Name your price**
-- Logo on the event website
-- Inclusion on all social media and electronic communications
-- Verbal recognition
+- Logo on the event website.
+- Inclusion on electronic communications during the event.
 
-_Note that we are happy wil all sizes of contributions, so we are always happy to discuss modified and negotiated packages._
+Note that we are happy wil all sizes of contributions, always open to discuss modified and negotiated packages.
+
 ---
-### Contact us about sponsorships and other inquiries
-We are always happy to discuss sponsorship opportunities or any other questions you may have. Feel free to reach out via sponsors+at+bsidesams-dot-org.
+### Contact
+**Contact us about sponsorships and other inquiries**
+
+We are always happy to discuss sponsorship opportunities or any other questions you may have. Feel free to reach out via sponsors@bsidesams.org.

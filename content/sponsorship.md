@@ -2,7 +2,7 @@
 
 **Thank you for considering sponsoring BSides Groningen!**
 
-Read all sponsorship information below, or download our [BSides Sponsor kit](/docs/BSides%20AMS%20Sponsor%20kit.pdf "BSides Sponsor kit").
+Read all sponsorship information below, or download our [BSides Sponsor kit](/docs/BSides%20AMS%20Sponsor%20kit.pdf).
 
 
 ---

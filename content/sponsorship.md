@@ -1,6 +1,6 @@
 # Become a sponsor
 
-**Thank you for considering sponsoring BSides Groningen!**
+**Thank you for considering sponsoring BSides Amsterdam!**
 
 Read all sponsorship information below, or download our [BSides Sponsor kit](/docs/BSides%20AMS%20Sponsor%20kit.pdf).
 

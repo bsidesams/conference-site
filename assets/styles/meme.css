@@ -84,7 +84,7 @@ html {
     color: var(--color-secondary-darker); /* Dark gray for readability */
     font-weight: 400;
     font-size: 1rem;
-    line-height: 11.5rem;
+    line-height: 1.5rem;
 }
 
 /* List items */

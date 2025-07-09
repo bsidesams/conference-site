@@ -26,11 +26,6 @@
             <link rel="stylesheet" href="{{ .RelPermalink }}" type="text/css" media="screen" integrity="{{ .Data.Integrity }}" />
         {{ end }}
 
-        {{ $styles := resources.Match "**/*.css" }}
-        {{ range $styles }}
-          Found: {{ .RelPermalink }}
-        {{ end }}
-
     <style>
       :root {
         --color-primary-lighter: {{- .Site.Params.themes.event.colors.primaryLighter }};

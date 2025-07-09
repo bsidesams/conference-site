@@ -192,16 +192,16 @@ name = "BSides Groningen"
 # name = "partner2"
 
 [params.themes.event.colors]
-primaryLighter = "#ff6937"
-primary = "#e64501" # oklch(0.618 0.2063 37.03)
-primaryDarker = "#c11d00"
-primaryDarkest = "#e64501"
-# primaryDarker = "#c11d00"
-# primaryDarkest = "#c11d00"
-secondary = "#f7f8fa"
-secondaryDarker = "#637381"
-track = "#015a57"
-shadow = "#a6afc366"
+primaryLighter = "#FF6B70"
+primary = "#DA1219"
+primaryDarker = "#B00F15"
+primaryDarkest = "#DA1219"
+secondary = "#F8F9FA"
+secondaryDarker = "#6C757D"
+track = "#2D5A87"
+shadow = "#ADB5BD"
+secondary-menu-description-1 = "#28A745"
+root = "#6C757D"
 
 [caches]
   [caches.images]

@@ -31,6 +31,8 @@ Follow Anderlechtlaan, Oude Haagseweg and Johan Huizingalaan to Johan Huizingala
 Take metro 50 or 51 from Amsterdam Zuid and exit at Henk Sneevlietweg. Then it is a 10-15 minute walk to building B.1.
 """
 aboutUs = """
+![BAms logo](images/bams_logo.png)
+
 ### BSides history
 BSides is a community-driven framework for building events for and by information security community members. The goal is to expand the spectrum of conversation beyond the traditional confines of space and time. It creates opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense event with discussions, demos, and interaction from participants. It is where conversations for the next-big-thing are happening.
 
@@ -164,7 +166,7 @@ viewLargerMapUrl = "https://www.openstreetmap.org/?#map=19/52.343169/4.828821"
 linkedinUrl = "https://www.linkedin.com/company/bsides-amsterdam/"
 
 [params.themes.event.images]
-logo = "images/bams_logo.jpg"
+logo = "images/bams_logo.png"
 titleBackground = "images/vondel.jpg"
 # location = "picture of the venue"
 

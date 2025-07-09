@@ -95,6 +95,20 @@ html {
     line-height: 1.5rem;
 }
 
+.section-container .markdown img {
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.section-container .layout-single-default img {
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .section-container ::marker {
     color: var(--color-primary-darker);
 }

@@ -1,3 +1,6 @@
+![BAms logo](images/bams_logo.png)
+
+
 # Become a sponsor
 
 **Thank you for considering sponsoring BSides Amsterdam!**

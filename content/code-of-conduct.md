@@ -1,3 +1,5 @@
+![BAms logo](images/bams_logo.png)
+
 # Attendee Code-of-Conduct
 BSides Amsterdam is a conference by the information security community, for the information security community. Facilitating a pleasant atmosphere for all attendees is a core aim of the BSides Amsterdam organisers and as an attendee/participant you agree to be bound by the BSides Amsterdam Attendee Code-of-Conduct.
 

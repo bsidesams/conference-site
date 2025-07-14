@@ -146,16 +146,19 @@ organizers = [
   "bfdf8ccd-2e44-4def-a337-597e2bffbd18",
   "08bb8f29-9c0e-4c96-9a6f-5ce6343e22d8",
   "180bd1d9-532a-4957-9b6e-d373f22d650f",
-  "dae3b7a3-806e-405b-8f26-2e8885f4592e"
+  "dae3b7a3-806e-405b-8f26-2e8885f4592e",
+  "48615645-061c-4128-90e2-1987ceb235bc"
 ]
 #featuredSessions = [ "944942", "943968", "945011" ]
 
 [params.themes.event.callToAction]
-enableBanner = false
+enableBanner = true
 
 # Fill in event ID when known
 #[params.themes.event.callToAction.eventbrite]
 #eventId = "1389051192509"
+[params.themes.event.callToAction.other]
+url = "https://sessionize.com/bsides-ams-2025"
 
 [params.themes.event.map]
 # Placeholders which point to a venue on openstreetmap

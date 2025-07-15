@@ -37,7 +37,7 @@ We are currently looking for a suitable location.
 
 
 ### Sponsorship Packages
-We offer two types of packages, regular packages on various levels. And special packages. These special packages are effectively 'add-ons' to BSides Amsterdam that extend the experience for all attendees. These packages will be available once our initial funding goals are reached (and this we know for sure BSides is happening).
+Below you can find the sponsor packages that will make BSides Amsterdam happen.
 
 #### Regular packages
 The regular packages are base packages, they should provide value for money in terms of exposure your organisation gets in return. These are also deemed the backbone to make BSides happen.
@@ -83,23 +83,6 @@ The regular packages are base packages, they should provide value for money in t
 - Logo on the event website.
 - Inclusion on electronic communications during the event.
 
-#### Special packages
-Special package pricing is a 1:1 transfer of the quoted price by the venue with the ability to spread your brand's recognition. With these packages we try to make BSides more comfortable for attendees, they will forever be grateful to sponsors who purchase these packages.
-
-##### Lunch sponsor - TBD
-- Mentions (verbal and digital) as lunch sponsor.
-- Placement of marketing materials at lunch location.
-
-##### Network drinks sponsor - TBD
-- Mentions (verbal and digital) as network drinks sponsor.
-- Placement of marketing materials at drinks location.
-
-##### T-Shirt sponsor - TBD
-- Verbal mention as T-shirt sponsor.
-- Your logo added to the t-shirt (similar to 'Silver package'-sponsor) together with other sponsors.
-- Note: Design and ordering of T-Shirts is done by BSides, sponsor has no impact on the final design.
-
-Note that we are happy wil all sizes of contributions, always open to discuss modified and negotiated packages.
 
 ### Contact
 **Contact us about sponsorships and other inquiries**

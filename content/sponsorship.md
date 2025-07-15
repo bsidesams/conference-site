@@ -35,12 +35,8 @@ We are looking to attract at least 200 information security professionals and in
 ### The Venue
 We are currently looking for a suitable location.
 
-
 ### Sponsorship Packages
-Below you can find the sponsor packages that will make BSides Amsterdam happen.
-
-#### Regular packages
-The regular packages are base packages, they should provide value for money in terms of exposure your organisation gets in return. These are also deemed the backbone to make BSides happen.
+Below you can find the sponsor packages that will ensure that we can make BSides Amsterdam happen.
 
 ##### Platinum - €7.000
 - Table space at the event, for recruiting purposes.

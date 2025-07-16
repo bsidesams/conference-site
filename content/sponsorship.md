@@ -38,7 +38,7 @@ We are currently looking for a suitable location.
 ### Sponsorship Packages
 Below you can find the sponsor packages that will ensure that we can make BSides Amsterdam happen.
 
-##### Platinum - €7.000
+##### Platinum - €7.000 (one package left!)
 - Table space at the event, for recruiting purposes.
 - Mentioned in the Opening Ceremonies.
 - Prominent large-sized logo placement on the website, banners, and promotional materials.

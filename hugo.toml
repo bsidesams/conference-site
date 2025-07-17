@@ -147,7 +147,8 @@ organizers = [
   "08bb8f29-9c0e-4c96-9a6f-5ce6343e22d8",
   "180bd1d9-532a-4957-9b6e-d373f22d650f",
   "dae3b7a3-806e-405b-8f26-2e8885f4592e",
-  "48615645-061c-4128-90e2-1987ceb235bc"
+  "48615645-061c-4128-90e2-1987ceb235bc",
+  "e8f118f8-10a2-475f-aa17-9b30b68e632c"
 ]
 #featuredSessions = [ "944942", "943968", "945011" ]
 
@@ -192,10 +193,10 @@ logo = "images/partners/bsides-groningen.png"
 url = "https://bsidesgrunn.org"
 name = "BSides Groningen"
 
-# [[params.themes.event.partners]]
-# logo = "logo2"
-# url = "url2"
-# name = "partner2"
+[[params.themes.event.partners]]
+logo = "images/sessionize.png"
+url = "https://sessionize.com"
+name = "Sessionize"
 
 [params.themes.event.colors]
 primaryLighter = "#FF6B70"

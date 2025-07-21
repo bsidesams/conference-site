@@ -198,6 +198,11 @@ logo = "images/sessionize.png"
 url = "https://sessionize.com"
 name = "Sessionize"
 
+[[params.themes.event.partners]]
+logo = "images/partners/orangecon.png"
+url = "https://orangecon.nl/"
+name = "OrangeCon"
+
 [params.themes.event.colors]
 primaryLighter = "#FF6B70"
 primary = "#DA1219"

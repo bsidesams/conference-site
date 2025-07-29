@@ -178,13 +178,23 @@ titleBackground = "images/vondel.jpg"
 ## Sponsors here
 [[params.themes.event.sponsors]]
 logo = "images/sponsors/warpnet-dark.png"
-url = "https://warpnet.nl/"
+url = "https://warpnet.nl"
 name = "WarpNet"
 
- [[params.themes.event.sponsors]]
- logo = "images/sponsors/specterops-dark.png"
- url = "https://specterops.io"
- name = "SpecterOps"
+[[params.themes.event.sponsors]]
+logo = "images/sponsors/specterops-dark.png"
+url = "https://specterops.io"
+name = "SpecterOps"
+
+[[params.themes.event.sponsors]]
+logo = "images/sponsors/nerium.png"
+url = "https://www.nerium.nl"
+name = "Nerium"
+
+[[params.themes.event.sponsors]]
+logo = "images/sponsors/invictus.png"
+url = "https://www.invictus-ir.com"
+name = "Invictus"
 
 ## Partners here
 [[params.themes.event.partners]]

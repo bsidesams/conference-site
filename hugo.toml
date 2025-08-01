@@ -196,6 +196,16 @@ logo = "images/sponsors/invictus.png"
 url = "https://www.invictus-ir.com"
 name = "Invictus"
 
+[[params.themes.event.sponsors]]
+logo = "images/sponsors/intigriti.png"
+url = "https://www.intigriti.com/"
+name = "Intigriti"
+
+[[params.themes.event.sponsors]]
+logo = "images/sponsors/holdsecurity.png"
+url = "https://holdsecurity.com/"
+name = "Hold Security"
+
 ## Partners here
 [[params.themes.event.partners]]
 logo = "images/partners/bsides-groningen.png"

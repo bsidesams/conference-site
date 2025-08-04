@@ -33,10 +33,10 @@ We are looking to attract at least 200 information security professionals and in
 
 
 ### The Venue
-We are currently looking for a suitable location.
+BSides Amsterdam will be held at PONG – House of Ping, a 
 
 ### Sponsorship Packages
-Below you can find the sponsor packages that will ensure that we can make BSides Amsterdam happen.
+Below you can find the sponsor packages that will ensure that we can make BSides Amsterdam happen. They describe themselves as the coziest ping pong bar in Amsterdam, and we tend to agree. A great location, reachable by public transport, bike and car and all the room for what we want to do at BSides Amsterdam this year!
 
 ##### Platinum - €7.000 (one package left!)
 - Table space at the event, for recruiting purposes.

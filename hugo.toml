@@ -17,18 +17,19 @@ Our goal is to bring together at least 200 people from the InfoSec community. In
 directions = """
 ## By Car:
 PARKING:
-There is ample parking at B.Amsterdam with 16 charging spots. The cost for parking is €2 per hour with a maximum of €12 per day. 
+There are several options for parking The cost for parking is €5,18 per hour with , but there are some spots with a maximum of €15-20 per day. We recommend the following parking for approximately €15,- per day: (1) Next to the KFC (no reservations possible), (2) ParkBee garage Laan van Spartaan (12 min. walk) or (3) ParkBee Wim van Estlaan.
 
 FROM DIRECTION UTRECHT:
-Take A2 and E19 to Anderlechtlaan in Amsterdam Nieuw-West, Amsterdam. Take exit 1-Amsterdam-Sloten from A4/E19
-Follow Anderlechtlaan, Oude Haagseweg and Johan Huizingalaan to Johan Huizingalaan.
+From the A10, take E22 to Jan van Galenstraat/s105 in Amsterdam-West. Take exit 5-S105 from A10/E22. Continue on Jan van Galenstraat/s105. Drive to Admiraal Helfrichstraat.
 
 FROM DIRECTION SCHIPHOL/HAARLEM (A4/A9):
-Take A5/A9 and A4/E19 to Anderlechtlaan in Amsterdam Nieuw-West, Amsterdam. Take exit 1-Amsterdam-Sloten from A4/E19.
-Follow Anderlechtlaan, Oude Haagseweg and Johan Huizingalaan to Johan Huizingalaan.
+From the A4, take A10/E22 to Jan van Galenstraat/s105 in Amsterdam-West, Amsterdam. Take exit 5-S105 from A10/E22
 
 ## By Public transport:
-Take metro 50 or 51 from Amsterdam Zuid and exit at Henk Sneevlietweg. Then it is a 10-15 minute walk to building B.1.
+Metro 50/51 stop at Metro station Jan van Galenstraat. From there it's a 11 minute walk.
+Tram 13 stops at Admiraal Helfrichstraat. From there it's a 5 minute walk.
+Tram 7 and Bus 15 stop at Jan van Galenstraat. From thre it's a 4 minute walk.
+
 """
 aboutUs = """
 ![BAms logo](images/bams_logo.png)
@@ -65,10 +66,10 @@ The foundation tries to achieve its goal by, among others:
 #pageRef = "/speakers"
 #weight = 20
 
-#[[languages.en.menus.main]]
-#identifier = "location"
-#pageRef = "/location"
-#weight = 40
+[[languages.en.menus.main]]
+identifier = "location"
+pageRef = "/location"
+weight = 40
 
 [[languages.en.menus.main]]
 identifier = "sponsors"
@@ -138,7 +139,7 @@ sessionizeId = "1d4jw7co"
 startDate = "2025-11-20"
 endDate = "2025-11-20"
 location = "Amsterdam, the Netherlands"
-address = [ "B. Amsterdam (Building B.1)", "Johan Huizingalaan 763a", "Amsterdam", "The Netherlands" ]
+address = [ "PONG – House of Ping", "Jan van Galenstraat 315", "Amsterdam", "The Netherlands" ]
 favicon = "favicon.ico"
 trackCategoryTitle = "Track"
 organizers = [
@@ -153,7 +154,7 @@ organizers = [
 #featuredSessions = [ "944942", "943968", "945011" ]
 
 [params.themes.event.callToAction]
-enableBanner = true
+enableBanner = false
 
 # Fill in event ID when known
 #[params.themes.event.callToAction.eventbrite]
@@ -163,8 +164,8 @@ url = "https://sessionize.com/bsides-ams-2025"
 
 [params.themes.event.map]
 # Placeholders which point to a venue on openstreetmap
-embeddableMapUrl = "https://www.openstreetmap.org/export/embed.html?bbox=4.827319085597993%2C52.342187647059596%2C4.830323159694672%2C52.344150742444484&amp;layer=mapnik"
-viewLargerMapUrl = "https://www.openstreetmap.org/?#map=19/52.343169/4.828821"
+embeddableMapUrl = "https://www.openstreetmap.org/export/embed.html?bbox=4.843809306621552%2C52.37074061981059%2C4.846813380718231%2C52.37275321123435&amp;layer=mapnik"
+viewLargerMapUrl = "https://www.openstreetmap.org/?#map=19/52.371747/4.845311"
 
 [params.themes.event.socialLinks]
 #xUrl = "https://x.com/bsidesams"
@@ -172,8 +173,8 @@ linkedinUrl = "https://www.linkedin.com/company/bsides-amsterdam/"
 
 [params.themes.event.images]
 logo = "images/bams_logo.png"
-titleBackground = "images/vondel.jpg"
-# location = "picture of the venue"
+titleBackground = "images/pong.png"
+location = "images/pong2.png"
 
 ## Sponsors here
 [[params.themes.event.sponsors]]

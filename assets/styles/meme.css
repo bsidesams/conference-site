@@ -215,6 +215,7 @@ html {
 
 
 .sponsor-card-platinum {
+    --color-primary: #e5e4e2;
     width: 28.875rem;
     height: 16.875rem;
     padding: 0.5rem;
@@ -226,12 +227,13 @@ html {
     border-radius: 0.3125rem;
     border: 0.0625rem solid var(--color-primary);
     box-shadow:
-        0 0 0 0 var(--color-primary),
+        0 0 20px 5px rgba(34, 38, 83, 0.7),
         0 0.0625rem 0.1875rem var(--color-shadow);
     transition: box-shadow 0.3s ease;
 }
 
 .sponsor-card-gold {
+    --color-primary: gold;
     width: 24.875rem;
     height: 16.875rem;
     padding: 0.5rem;
@@ -243,12 +245,13 @@ html {
     border-radius: 0.3125rem;
     border: 0.0625rem solid var(--color-primary);
     box-shadow:
-        0 0 0 0 var(--color-primary),
+        0 0 10px 2px gold,
         0 0.0625rem 0.1875rem var(--color-shadow);
     transition: box-shadow 0.3s ease;
 }
 
 .sponsor-card-silver {
+    --color-primary: lightgray;
     width: 20.875rem;
     height: 16.875rem;
     padding: 0.5rem;
@@ -260,7 +263,7 @@ html {
     border-radius: 0.3125rem;
     border: 0.0625rem solid var(--color-primary);
     box-shadow:
-        0 0 0 0 var(--color-primary),
+        0 0 8px 2px var(--color-primary),
         0 0.0625rem 0.1875rem var(--color-shadow);
     transition: box-shadow 0.3s ease;
 }

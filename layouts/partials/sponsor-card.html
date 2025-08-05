@@ -1,6 +1,48 @@
 {{ $input := . }}
 
-
+{{ if eq $input.sponstype "Platinum" }}
+<div class="sponsor-card-platinum">
+    <a class="sponsor-card__link" href="{{ $input.companyUrl }}">
+        {{ with resources.Get $input.logoResource }}
+            <img
+                class="sponsor-card__logo"
+                src="{{ .RelPermalink }}"
+                alt="{{ $input.name }}"
+                {{ if not (eq .MediaType.SubType "svg") }}
+                    width="{{ .Width }}" height="{{ .Height }}"
+                {{ end }} />
+        {{ end }}
+    </a>
+</div>
+{{ else if eq $input.sponstype "Gold" }}
+<div class="sponsor-card-gold">
+    <a class="sponsor-card__link" href="{{ $input.companyUrl }}">
+        {{ with resources.Get $input.logoResource }}
+            <img
+                class="sponsor-card__logo"
+                src="{{ .RelPermalink }}"
+                alt="{{ $input.name }}"
+                {{ if not (eq .MediaType.SubType "svg") }}
+                    width="{{ .Width }}" height="{{ .Height }}"
+                {{ end }} />
+        {{ end }}
+    </a>
+</div>
+{{ else if eq $input.sponstype "Silver" }}
+<div class="sponsor-card-silver">
+    <a class="sponsor-card__link" href="{{ $input.companyUrl }}">
+        {{ with resources.Get $input.logoResource }}
+            <img
+                class="sponsor-card__logo"
+                src="{{ .RelPermalink }}"
+                alt="{{ $input.name }}"
+                {{ if not (eq .MediaType.SubType "svg") }}
+                    width="{{ .Width }}" height="{{ .Height }}"
+                {{ end }} />
+        {{ end }}
+    </a>
+</div>
+{{ else }}
 <div class="sponsor-card">
     <a class="sponsor-card__link" href="{{ $input.companyUrl }}">
         {{ with resources.Get $input.logoResource }}
@@ -14,3 +56,4 @@
         {{ end }}
     </a>
 </div>
+{{ end }}

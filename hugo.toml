@@ -181,31 +181,43 @@ location = "images/pong2.png"
 logo = "images/sponsors/warpnet-dark.png"
 url = "https://warpnet.nl"
 name = "WarpNet"
+sponstype = "Silver"
 
 [[params.themes.event.sponsors]]
 logo = "images/sponsors/specterops-dark.png"
 url = "https://specterops.io"
 name = "SpecterOps"
+sponstype = "Silver"
 
 [[params.themes.event.sponsors]]
 logo = "images/sponsors/nerium.png"
 url = "https://www.nerium.nl"
 name = "Nerium"
+sponstype = "Silver"
 
 [[params.themes.event.sponsors]]
 logo = "images/sponsors/invictus.png"
 url = "https://www.invictus-ir.com"
 name = "Invictus"
+sponstype = "Silver"
 
 [[params.themes.event.sponsors]]
 logo = "images/sponsors/intigriti.png"
 url = "https://www.intigriti.com/"
 name = "Intigriti"
+sponstype = "Platinum"
 
 [[params.themes.event.sponsors]]
 logo = "images/sponsors/holdsecurity.png"
-url = "https://holdsecurity.com/"
+url = "https://holdsecurity.com"
 name = "Hold Security"
+sponstype = "Silver"
+
+[[params.themes.event.sponsors]]
+logo = "images/sponsors/aikido-dark.png"
+url = "https://www.aikido.dev"
+name = "Aikodo Security"
+sponstype = "Gold"
 
 ## Partners here
 [[params.themes.event.partners]]

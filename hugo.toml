@@ -205,7 +205,7 @@ sponstype = "Silver"
 logo = "images/sponsors/intigriti.png"
 url = "https://www.intigriti.com/"
 name = "Intigriti"
-sponstype = "Platinum"
+sponstype = "Silver"
 
 [[params.themes.event.sponsors]]
 logo = "images/sponsors/holdsecurity.png"

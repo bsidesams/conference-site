@@ -5,9 +5,6 @@
 
 **Thank you for considering sponsoring BSides Amsterdam!**
 
-Read all sponsorship information below, or download our [BSides Sponsor kit](/docs/BSides%20AMS%20Sponsor%20kit.pdf).
-
-
 ### What Is BSides?
 BSides events combine security expertise from a variety of platforms in search of the “next big thing” in information security. BSides is an open platform that gives security experts and industry professionals the opportunity to share ideas, insights, and develop longstanding relationships with others in the community. It is a rare opportunity to directly connect and create trusted relationships with key members of the community.
 

@@ -45,7 +45,7 @@ Below you can find the sponsor packages that will ensure that we can make BSides
 - 5 Badges.
 - Early bird ticket access for up to 10 tickets.
 
-##### Gold - €5.000
+##### Gold - €4.500
 - Table space at the event, for recruiting purposes.
 - Mentioned in the Opening Ceremonies.
 - Medium-sized logo placement on the website, banners, and promotional materials.

@@ -226,7 +226,7 @@ name = "Hold Security"
 sponstype = "Silver"
 
 [[params.themes.event.sponsors]]
-logo = "images/sponsors/sysdig-black.png"
+logo = "images/sponsors/sysdig.png"
 url = "https://www.sysdig.com"
 name = "Sysdig"
 sponstype = "Silver"

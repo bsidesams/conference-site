@@ -101,17 +101,17 @@ Learn more about our mission, values, and the people behind our organization.
 #Meet our speakers who will will be speaking at BSides.
 #Learn more about their backgrounds and what they will discuss.
 #"""
-#
-#[[languages.en.menus.secondary]]
-#identifier = "location"
-#pageRef = "/location"
-#weight = 40
-#
-  #[languages.en.menus.secondary.params]
-  #description = """
-#Find out where the event will take place.
-#This section provides details on the venue and directions.
-#"""
+
+[[languages.en.menus.secondary]]
+identifier = "location"
+pageRef = "/location"
+weight = 40
+
+[languages.en.menus.secondary.params]
+description = """
+Find out where the event will take place.
+This section provides details on the venue and directions.
+"""
 
 [[languages.en.menus.secondary]]
 identifier = "code_of_conduct"
@@ -154,7 +154,7 @@ organizers = [
 #featuredSessions = [ "944942", "943968", "945011" ]
 
 [params.themes.event.callToAction]
-enableBanner = false
+enableBanner = true
 
 # Fill in event ID when known
 #[params.themes.event.callToAction.eventbrite]
@@ -178,15 +178,15 @@ location = "images/pong2.png"
 
 ## Sponsors here
 [[params.themes.event.sponsors]]
-logo = "images/sponsors/falconforce.png"
-url = "https://falconforce.nl"
-name = "FalconForce"
-sponstype = "Bronze"
-
-[[params.themes.event.sponsors]]
 logo = "images/sponsors/escape.png"
 url = "https://escape.tech"
 name = "Escape"
+sponstype = "Bronze"
+
+[[params.themes.event.sponsors]]
+logo = "images/sponsors/falconforce.png"
+url = "https://falconforce.nl"
+name = "FalconForce"
 sponstype = "Bronze"
 
 [[params.themes.event.sponsors]]
@@ -223,6 +223,12 @@ sponstype = "Silver"
 logo = "images/sponsors/holdsecurity.png"
 url = "https://holdsecurity.com"
 name = "Hold Security"
+sponstype = "Silver"
+
+[[params.themes.event.sponsors]]
+logo = "images/sponsors/sysdig-white.png"
+url = "https://www.sysdig.com"
+name = "Sysdig"
 sponstype = "Silver"
 
 [[params.themes.event.sponsors]]

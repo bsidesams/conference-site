@@ -232,9 +232,21 @@ name = "Sysdig"
 sponstype = "Silver"
 
 [[params.themes.event.sponsors]]
+logo = "images/sponsors/hardened.png"
+url = "https://hardened.eu/"
+name = "Hardened"
+sponstype = "Silver"
+
+[[params.themes.event.sponsors]]
 logo = "images/sponsors/aikido-dark.png"
 url = "https://www.aikido.dev"
 name = "Aikodo Security"
+sponstype = "Gold"
+
+[[params.themes.event.sponsors]]
+logo = "images/sponsors/armorcode.png"
+url = "https://www.armorcode.com/"
+name = "ArmorCode"
 sponstype = "Gold"
 
 ## Partners here

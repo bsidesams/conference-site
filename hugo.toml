@@ -190,6 +190,12 @@ name = "FalconForce"
 sponstype = "Bronze"
 
 [[params.themes.event.sponsors]]
+logo = "images/sponsors/cqure.png"
+url = "https://cqure.nl"
+name = "CQure"
+sponstype = "Bronze"
+
+[[params.themes.event.sponsors]]
 logo = "images/sponsors/warpnet-dark.png"
 url = "https://warpnet.nl"
 name = "WarpNet"

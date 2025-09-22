@@ -12,7 +12,7 @@ languageName = "English"
 slogan = "Bringing the BSides community back to Amsterdam!"
 description = """
 Security BSides is a community-driven framework for building events, by and for, information security community members. These events are already happening in major cities all over the world! We are responsible for organizing an independent BSides-Approved event in Amsterdam.
-Our goal is to bring together at least 200 people from the InfoSec community. Interested in helping us achieve this goal? Consider [becoming a sponsor](/sponsorship) of BSides!"""
+Our goal is to bring together at least 200 people from the InfoSec community."""
 
 directions = """
 ## By Car:
@@ -159,8 +159,8 @@ enableBanner = true
 # Fill in event ID when known
 #[params.themes.event.callToAction.eventbrite]
 #eventId = "1389051192509"
-[params.themes.event.callToAction.other]
-url = "https://sessionize.com/bsides-ams-2025"
+#[params.themes.event.callToAction.other]
+#url = "https://sessionize.com/bsides-ams-2025"
 
 [params.themes.event.map]
 # Placeholders which point to a venue on openstreetmap
@@ -244,6 +244,12 @@ name = "Hardened"
 sponstype = "Silver"
 
 [[params.themes.event.sponsors]]
+logo = "images/sponsors/sans.png"
+url = "https://sans.org/"
+name = "SANS"
+sponstype = "Silver"
+
+[[params.themes.event.sponsors]]
 logo = "images/sponsors/aikido-dark.png"
 url = "https://www.aikido.dev"
 name = "Aikodo Security"
@@ -254,6 +260,18 @@ logo = "images/sponsors/armorcode.png"
 url = "https://www.armorcode.com/"
 name = "ArmorCode"
 sponstype = "Gold"
+
+[[params.themes.event.sponsors]]
+logo = "images/sponsors/booking.png"
+url = "https://www.booking.com/"
+name = "Booking"
+sponstype = "Gold"
+
+[[params.themes.event.sponsors]]
+logo = "images/sponsors/adyen.png"
+url = "https://www.adyen.com/"
+name = "Adyen"
+sponstype = "Platinum"
 
 ## Partners here
 [[params.themes.event.partners]]

@@ -3,10 +3,10 @@ countdown.hours: Hrs
 countdown.minutes: Mins
 countdown.seconds: Secs
 cta_banner.message: 'Call for Papers is closed - Thanks for all the submissions. Stay tuned for our lineup!'
-cta_button.get_ticket: Submit your talk!
-cta_section.heading: Help bring back BSides to Amsterdam!
-cta_section.subheading: Register today!
-cta_section.message: Submit your talk today, or become BSides sponsor!
+#cta_button.get_ticket: Submit your talk!
+cta_section.heading: Join us in Amsterdam!
+cta_section.subheading: November 20, 2025
+cta_section.message: Hang out, learn something awesome and make new friends.
 header_featured_speakers: Featured Speakers
 speakers_page.heading: Speakers
 speakers_page.social_links: '{{ . }} social media links'

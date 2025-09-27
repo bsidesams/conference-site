@@ -247,7 +247,7 @@ sponstype = "Silver"
 logo = "images/sponsors/sans.png"
 url = "https://sans.org/"
 name = "SANS"
-sponstype = "Silver"
+sponstype = "Gold"
 
 [[params.themes.event.sponsors]]
 logo = "images/sponsors/aikido-dark.png"

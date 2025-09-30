@@ -56,15 +56,15 @@ The foundation tries to achieve its goal by, among others:
 * Building and maintaining contacts with users and suppliers with knowledge and/or expertise that are deemed to be of importance to the Foundation and the goals it pursues and aims to achieve.
 """
 
-#[[languages.en.menus.main]]
-#identifier = "sessions"
-#pageRef = "/sessions"
-#weight = 10
+[[languages.en.menus.main]]
+identifier = "sessions"
+pageRef = "/sessions"
+weight = 10
 
-#[[languages.en.menus.main]]
-#identifier = "speaker"
-#pageRef = "/speakers"
-#weight = 20
+[[languages.en.menus.main]]
+identifier = "speaker"
+pageRef = "/speakers"
+weight = 20
 
 [[languages.en.menus.main]]
 identifier = "location"
@@ -157,8 +157,8 @@ organizers = [
 enableBanner = true
 
 # Fill in event ID when known
-#[params.themes.event.callToAction.eventbrite]
-#eventId = "1389051192509"
+[params.themes.event.callToAction.eventbrite]
+eventId = "1389051192509"
 #[params.themes.event.callToAction.other]
 #url = "https://sessionize.com/bsides-ams-2025"
 

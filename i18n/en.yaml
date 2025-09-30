@@ -2,8 +2,8 @@ countdown.days: Days
 countdown.hours: Hrs
 countdown.minutes: Mins
 countdown.seconds: Secs
-cta_banner.message: 'Call for Papers is closed - Thanks for all the submissions. Stay tuned for our lineup!'
-#cta_button.get_ticket: Submit your talk!
+cta_banner.message: 'Our agenda is now published. Tickets go on sale October 1st!'
+cta_button.get_ticket: Get your tickets!
 cta_section.heading: Join us in Amsterdam!
 cta_section.subheading: November 20, 2025
 cta_section.message: Hang out, learn something awesome and make new friends.

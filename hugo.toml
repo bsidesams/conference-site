@@ -154,7 +154,7 @@ organizers = [
 #featuredSessions = [ "944942", "943968", "945011" ]
 
 [params.themes.event.callToAction]
-enableBanner = true
+enableBanner = false
 
 # Fill in event ID when known
 [params.themes.event.callToAction.eventbrite]

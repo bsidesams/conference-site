@@ -244,6 +244,12 @@ name = "Hardened"
 sponstype = "Silver"
 
 [[params.themes.event.sponsors]]
+logo = "images/sponsors/responders.png"
+url = "https://responders.now/"
+name = "Responders"
+sponstype = "Silver"
+
+[[params.themes.event.sponsors]]
 logo = "images/sponsors/sans.png"
 url = "https://sans.org/"
 name = "SANS"

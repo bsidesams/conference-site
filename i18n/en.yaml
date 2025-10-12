@@ -25,6 +25,7 @@ menu.sessions: Schedule
 menu.speakers: Speakers
 menu.location: Location
 menu.sponsors: Sponsors & Partners
+menu.ctf: Capture the Flag
 main_menu.label: Main Menu
 social-links_list.label: Social media links
 secondary_menu.label: Secondary menu

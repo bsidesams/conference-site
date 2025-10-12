@@ -67,6 +67,11 @@ pageRef = "/speakers"
 weight = 20
 
 [[languages.en.menus.main]]
+identifier = "ctf"
+pageRef = "/ctf"
+weight = 30
+
+[[languages.en.menus.main]]
 identifier = "location"
 pageRef = "/location"
 weight = 40

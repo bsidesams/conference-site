@@ -56,9 +56,14 @@ The foundation tries to achieve its goal by, among others:
 * Building and maintaining contacts with users and suppliers with knowledge and/or expertise that are deemed to be of importance to the Foundation and the goals it pursues and aims to achieve.
 """
 
+#[[languages.en.menus.main]]
+#identifier = "sessions"
+#pageRef = "/sessions"
+#weight = 10
+
 [[languages.en.menus.main]]
-identifier = "sessions"
-pageRef = "/sessions"
+identifier = "schedule"
+pageRef = "/schedule"
 weight = 10
 
 [[languages.en.menus.main]]
@@ -70,6 +75,11 @@ weight = 20
 identifier = "ctf"
 pageRef = "/ctf"
 weight = 30
+
+[[languages.en.menus.main]]
+identifier = "preparty"
+pageRef = "/preparty"
+weight = 35
 
 [[languages.en.menus.main]]
 identifier = "location"
@@ -270,6 +280,12 @@ sponstype = "Gold"
 logo = "images/sponsors/armorcode.png"
 url = "https://www.armorcode.com/"
 name = "ArmorCode"
+sponstype = "Gold"
+
+[[params.themes.event.sponsors]]
+logo = "images/sponsors/semgrep.png"
+url = "https://www.semgrep.dev/"
+name = "Semgrep"
 sponstype = "Gold"
 
 [[params.themes.event.sponsors]]

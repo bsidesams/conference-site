@@ -21,15 +21,13 @@ We are also proud and excited to announce SANS as a BSides Amsterdam CTF sponsor
     
 2. Participation is global, however only in-person attendees are eligible to win prizes.
     
-3. 18+ attendees only.
+3. No hacking the CTF infrastructure (duh).
     
-4. No hacking the CTF infrastructure (duh).
+4. No flag hoarding or flag sharing.
     
-5. No flag hoarding or flag sharing.
+5. No using LLM’s or agentic AI to solve challenges – you will be immediately disqualified if we find out you are doing this.
     
-6. No using LLM’s or agentic AI to solve challenges – you will be immediately disqualified if we find out you are doing this.
-    
-7. Space is limited – first come, first serve.
+6. Space is limited – first come, first serve.
     
 
 **Registration:** 

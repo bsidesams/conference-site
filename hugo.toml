@@ -87,6 +87,11 @@ pageRef = "/QA"
 weight = 36
 
 [[languages.en.menus.main]]
+identifier = "feedback"
+pageRef = "/feedback"
+weight = 37
+
+[[languages.en.menus.main]]
 identifier = "location"
 pageRef = "/location"
 weight = 40

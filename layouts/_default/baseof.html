@@ -166,6 +166,7 @@
         </script>
 
         <main class="page-main">
+            {{- if .Page.Params.redirect_url }}This page should redirect you automatically. If not, please click this link to proceed <a href="{{ .Page.Params.redirect_url }}">{{ .Page.Params.redirect_url }}</a>.{{ end }}
             {{ block "main" . }}{{ end }}
         </main>
 

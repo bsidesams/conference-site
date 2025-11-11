@@ -82,6 +82,11 @@ pageRef = "/preparty"
 weight = 35
 
 [[languages.en.menus.main]]
+identifier = "Q&A"
+pageRef = "/QA"
+weight = 36
+
+[[languages.en.menus.main]]
 identifier = "location"
 pageRef = "/location"
 weight = 40
